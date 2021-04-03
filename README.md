@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanavS16&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-lands/?username=MaanavS16&theme=synthwave"/>
 
 <!--
 **MaanavS16/MaanavS16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
