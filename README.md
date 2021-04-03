@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a passionate Computer Science Student located in Morrisville North Carolina. I'm interested in Machine Learning, Data Science, and solving problems computationally! I have experience with Python and machine learning with Tensorflow. 
 
 ## &#x1f4c8; GitHub Stats
 
@@ -10,14 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaanavS16&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maanav's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanavS16&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanavS16&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!--
 **MaanavS16/MaanavS16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
