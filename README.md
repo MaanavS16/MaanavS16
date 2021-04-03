@@ -1,6 +1,11 @@
 ### Hi there 👋
+I'm a passionate Computer Science Student located in Morrisville, North Carolina. 
 
-I'm a passionate Computer Science Student located in Morrisville North Carolina. I'm interested in Machine Learning, Data Science, and solving problems computationally! I have experience with Python and machine learning with Tensorflow. 
+### 🌱 I’m currently learning ...
+I'm interested in Machine Learning, Data Science, Cybersecurity, and solving problems computationally! I have experience with Python and machine learning with Tensorflow and you'll usually catch me trying improving the things that impact me.
+
+## 🔭 I’m currently working on ...
+A supervised learning image-processing model to play my favorite video games. Immersive 1st person games are a great low-stakes environment to test out my ideas!
 
 ## &#x1f4c8; GitHub Stats
 
@@ -17,7 +22,7 @@ I'm a passionate Computer Science Student located in Morrisville North Carolina.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
