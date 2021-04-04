@@ -2,7 +2,7 @@
 I'm a passionate Computer Science Student located in Morrisville, North Carolina. 
 
 ### 🌱 I’m currently learning ...
-I'm interested in Machine Learning, Data Science, Cybersecurity, and solving problems computationally! I have experience with Python and machine learning with Tensorflow and you'll usually catch me trying improving the things that impact me.
+I'm interested in Machine Learning, Data Science, Cybersecurity, and solving problems computationally! I have experience with Python and machine learning with Tensorflow.
 
 ## 🔭 I’m currently working on ...
 A supervised learning image-processing model to play my favorite video games. Immersive 1st person games are a great low-stakes environment to test out my ideas!
