@@ -7,7 +7,7 @@ I'm interested in Software Engineering, Machine Learning, Data Science and solvi
 ## 🔭 I’m currently working on ...
 * Improving my skills in Algorithms, Data Structures, and Software Engineering
 * Practicing C/C++ for a deeper understanding of computer organization
-* Learning about how to combine control theory and CS (https://tarheels.live/pips/)
+* Learning how to combine control theory and CS (https://tarheels.live/pips/)
 
 
 ## &#x1f4c8; GitHub Stats
