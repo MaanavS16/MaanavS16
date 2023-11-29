@@ -1,13 +1,14 @@
 ### Hi there 👋
-I'm a passionate Computer Science and Mathematics Student located in Morrisville, North Carolina. 
+I'm a passionate Computer Science and Mathematics Student located in Morrisville, North Carolina.
 
 ## 🌱 What are my interests? ...
-Software Engineering, Machine Learning, Data Science and solving problems computationally! I have experience with programming in Python, Java, C and machine learning with Tensorflow and PyTorch. I'm eager to learn more and meet new people so feel free to reach out
+Distributed Systems, ML Infrastrucutre, Operating Systems, Programming Languages and solving problems computationally! I have experience with programming in Python, C++, Java, C, Rust and ML modeling with Tensorflow and PyTorch. I'm eager to learn more and meet new people so feel free to reach out
 
 ## 🔭 I’m currently working on ...
-* Improving my skills in Algorithms, Data Structures, and Software Engineering
-* Practicing C/C++ for a deeper understanding of computer organization
-* Learning how to combine control theory and CS (https://tarheels.live/pips/)
+* A distributed serverless platform for GPU accelerated ML inferencing
+* Reading up on Operating Systems. Specifically interested in virtualization and unikernels
+* Writing a LISP interpreter in Java
+* Brushing up on Data Structures and Algorithms for the [ICPC](https://icpc.global/)
 
 ## 📫 How to reach me: ...
 Feel free to send an email to: maanavsingh1234@gmail.com or msingh2@unc.edu
